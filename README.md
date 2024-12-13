@@ -57,3 +57,7 @@ Enter 두번
 
 2.
 ![프로필 이미지](./mangom_e.jpg)
+
+크기를 조정하고 싶다면 markdown 이 아닌 html로 작성
+
+<img src="./mangom_e.jpg" alt="망곰이" width="500" height="300">
