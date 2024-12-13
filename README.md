@@ -51,3 +51,9 @@ Enter 두번
   
 소스 코드는 `function add(x,y) {return x+y; }`처럼 사용합니다. 
 
+# <이미지 삽입>
+
+1.test-1에 upload files한 후,
+
+2.
+![프로필 이미지](./mangom_e.jpg)
